@@ -10,3 +10,23 @@ h1{
 .orange-color{
     color: orange;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 30px;
+}
+.half-width img{
+    width: 80%;
+    margin-left: 50px;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(to right,#ed8672,#FF6B4D);
+    color: #fff;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
