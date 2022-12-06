@@ -15,7 +15,7 @@ h2{
     color: orange;
 }
 /*top banner started*/
-section{
+.flexible-container{
     display: flex;
 }
 .half-width{
@@ -66,5 +66,7 @@ section{
 }
 
 /*****middle banner ended*******/
+
+/*****bottom banner started*******/
 
 
